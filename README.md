@@ -1,6 +1,6 @@
 ### Hi, Im Bren!
 
-- ⚡️ Bot/Software developer</b>
+- ⚡️ Bot/Software Developer</b>
 
 - 🐍 Python Developer</b>
 
