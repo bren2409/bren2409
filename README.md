@@ -11,5 +11,3 @@ Discord: bren#2001
 
 ### Github Stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=djlorenzouasset&show_icons=true&theme=dark' height="160">
-
