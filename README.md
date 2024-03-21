@@ -15,10 +15,7 @@ Discord: bren#2001
 
 
 
-### Additional Stats
-
 - Total Commits: ![Total Commits](https://img.shields.io/github/commit-activity/m/bren2409)
 - Total Repositories: ![Total Repos](https://img.shields.io/github/repo-count/bren2409)
-- Followers: ![Followers](https://img.shields.io/github/followers/bren2409?style=social)
-- Contribution Streak: ![Contribution Streak](https://img.shields.io/github/commit-activity/st/bren2409)
-- Longest Streak: ![Longest Streak](https://img.shields.io/github/commit-activity/y/bren2409)
+- Contribution Streak: ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=bren2409)
+- Longest Streak: ![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=bren2409&date_format=M%20j%5B%2C%20Y%5D)
