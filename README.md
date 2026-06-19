@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bren</h1>
-<h3 align="center">⚡ Bot/Software Developer &nbsp;|&nbsp; 🐍 Python Developer</h3>
+<h1 align="left">Hi, I'm Bren!</h1>
+<h3 align="left">Languages:</h3>
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>Roblox / Lua</li>
+  <li>HTML</li>
+</ul>
 ### Contact
 
 Twitter: @bren_v2<br>
