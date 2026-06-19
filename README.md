@@ -6,10 +6,14 @@
   <li>Roblox / Lua</li>
   <li>HTML</li>
 </ul>
-### Contact
 
-Twitter: @bren_v2<br>
-Discord: bren#2001
+<h3 align="left">Contact:</h3>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/bren_v2" target="_blank">@bren_v2</a></li>
+  <li>Discord: brenv2</li>
+  <li>Instagram: <a href="https://instagram.com/bren._v2" target="_blank">@bren._v2</a></li>
+  <li>Discord Server: <a href="https://discord.gg/3GzxWraBet" target="_blank">discord.gg/3GzxWraBet</a></li>
+</ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bren2409&layout=compact&theme=radical&hide_border=true&border_radius=10)
 
