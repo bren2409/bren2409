@@ -10,20 +10,24 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
   <a href="https://twitter.com/bren_v2" target="_blank">
-    <img src="https://img.shields.io/badge/bren__v2-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" />
   </a>
+  &nbsp; bren_v2
   <br><br>
   <a href="https://discordapp.com/users/brenv2" target="_blank">
-    <img src="https://img.shields.io/badge/brenv2-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
+  &nbsp; brenv2
   <br><br>
   <a href="https://instagram.com/bren._v2" target="_blank">
-    <img src="https://img.shields.io/badge/bren._v2-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
+  &nbsp; bren._v2
   <br><br>
   <a href="https://discord.gg/3GzxWraBet" target="_blank">
-    <img src="https://img.shields.io/badge/Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
+  &nbsp; Join Server
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bren2409&layout=compact&theme=radical&hide_border=true&border_radius=10)
