@@ -10,19 +10,19 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
   <a href="https://twitter.com/bren_v2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@bren__v2-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/bren__v2-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
   <br><br>
   <a href="https://discordapp.com/users/brenv2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-brenv2-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/brenv2-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
   <br><br>
   <a href="https://instagram.com/bren._v2" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@bren.__v2-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/bren._v2-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <br><br>
   <a href="https://discord.gg/3GzxWraBet" target="_blank">
-    <img src="https://img.shields.io/badge/Discord_Server-Join_Now-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
 
