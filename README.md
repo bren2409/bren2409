@@ -22,8 +22,8 @@
   </a>
 </p>
 
-![Top Langs](https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=bren2409&layout=compact&theme=radical&hide_border=true&border_radius=10&count_private=true)
+![Bren's GitHub stats](https://github-readme-stats-two-gray-62.vercel.app/api?username=bren2409&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true)
 
-![Bren's GitHub stats](https://YOUR-VERCEL-URL.vercel.app/api?username=bren2409&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true)
+![Top Langs](https://github-readme-stats-two-gray-62.vercel.app/api/top-langs/?username=bren2409&layout=compact&theme=radical&hide_border=true&border_radius=10&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bren2409&theme=radical&hide_border=true&border_radius=10)
