@@ -21,7 +21,8 @@
     <img src="https://img.shields.io/badge/Discord_Server-Join-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bren2409&layout=compact&theme=radical&hide_border=true&border_radius=10)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bren2409&layout=compact&theme=radical&hide_border=true&border_radius=10&count_private=true)
 
 ![Bren's GitHub stats](https://github-readme-stats.vercel.app/api?username=bren2409&show_icons=true&theme=radical&hide_border=true&border_radius=10&icon_color=00e5a0)
 
