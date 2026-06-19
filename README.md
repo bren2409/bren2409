@@ -1,9 +1,5 @@
-### Hi, Im Bren!
-
-- ⚡️ Bot/Software Developer</b>
-
-- 🐍 Python Developer</b>
-
+<h1 align="center">Hi 👋, I'm Bren</h1>
+<h3 align="center">⚡ Bot/Software Developer &nbsp;|&nbsp; 🐍 Python Developer</h3>
 ### Contact
 
 Twitter: @bren_v2<br>
